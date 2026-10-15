@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'beambalancebouncecookie',
   tip2Id: 'beambalancebouncedonut',
-  tip1Label: '💛 Buy me a cookie',
-  tip2Label: '💛 Buy me a donut',
+  tip1Label: '💛 Buy Beam Balance Bounce a cookie',
+  tip2Label: '💛 Buy Beam Balance Bounce a donut',
 );
